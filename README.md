@@ -86,7 +86,9 @@ To write tests for the project, you can use the following frameworks:
 -------------
 Here are some screenshots of the Cloud Referee project:
 * **Homepage**: <img width="2559" height="1515" alt="01" src="https://github.com/user-attachments/assets/4ba2c7fc-2930-4463-bfa9-7f0c1e1273b6" />
+
 * **Cloud Comperision**: <img width="2559" height="1512" alt="02" src="https://github.com/user-attachments/assets/5de5ec5f-82dd-407f-bf0d-d24c072f03db" />
+
 * **Recommendation Page**: <img width="2559" height="1513" alt="03" src="https://github.com/user-attachments/assets/602c4ad2-aa0a-4332-bfc4-58f6acbb8110" />
 
 📦 API Reference
