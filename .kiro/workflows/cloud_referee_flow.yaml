@@ -1,0 +1,23 @@
+name: cloud-referee-workflow
+
+description: >
+  A workflow that evaluates user requirements and compares
+  AWS, GCP, and Azure with trade-offs and recommendations.
+
+steps:
+  - id: collect_inputs
+    description: Collect user constraints
+    inputs:
+      - budget
+      - workload
+      - use_case
+      - learning_curve
+
+  - id: evaluate_clouds
+    description: Score each cloud based on decision rules
+
+  - id: generate_comparison
+    description: Produce comparison table, pros/cons, and reasoning
+
+  - id: final_recommendation
+    description: Recommend best cloud with justification

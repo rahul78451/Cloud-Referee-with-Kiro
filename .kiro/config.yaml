@@ -1,0 +1,4 @@
+project_name: cloud-referee
+version: 1.0
+author: Rahul Kumar
+description: Decision-support tool to compare AWS, GCP, and Azure
